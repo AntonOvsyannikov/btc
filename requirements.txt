@@ -1,0 +1,3 @@
+ccxt~=1.50
+fastapi~=0.65
+uvicorn~=0.14
